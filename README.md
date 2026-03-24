@@ -1,5 +1,6 @@
 # Sistemas-Distribuidos
 
+# Reflexión sobre la actividad
 
 1: Una de las ventajas que le vi a trabajar directamente en la nube con GitHub es que no tengo que preocuparme por configurar todo en mi computador. Puedo acceder al proyecto desde cualquier lugar y dispositivo, y además es más fácil compartirlo o trabajar con otras personas. También me gustó que los cambios se guardan y se pueden ver versiones anteriores sin tanto problema.
 
